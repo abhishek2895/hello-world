@@ -1,2 +1,3 @@
 # hello-world
-beginning
+This is just the beginning.
+Developer
